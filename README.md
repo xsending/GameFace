@@ -51,7 +51,3 @@ This project is mainly aimed towards disabled people, specifically those with di
 - Kenneth Lim
 - Joshua Azarcon
 - John Dominic Contreras
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
