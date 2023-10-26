@@ -47,10 +47,10 @@ This project is mainly aimed towards disabled people, specifically those with di
 
 ## Authors
 
-Abel Gomez  
-Kenneth Lim
-Joshua Azarcon
-John Dominic Contreras
+- Abel Gomez  
+- Kenneth Lim
+- Joshua Azarcon
+- John Dominic Contreras
 
 ## License
 
